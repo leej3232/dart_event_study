@@ -130,3 +130,7 @@ raw caches / processed CSVs can be excluded depending on storage preference
 ## Plots
 ![AAR](reports/figures/aar.png)
 ![CAAR](reports/figures/caar.png)
+
+## Key results (current run)
+- Complete events with full window (tau = -20..+20): **550**
+- CAAR at tau = +20: **+2.64%** (computed from FinanceDataReader daily return `Change`)
