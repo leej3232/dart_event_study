@@ -1,0 +1,17 @@
+# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# caches & generated data (big)
+data/raw/
+data/processed/
+
+# OS
+.DS_Store
