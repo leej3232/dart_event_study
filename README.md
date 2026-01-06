@@ -126,3 +126,7 @@ raw caches / processed CSVs can be excluded depending on storage preference
 ## Plots
 ![AAR](reports/figures/aar.png)
 ![CAAR](reports/figures/caar.png)
+
+## Plots
+![AAR](reports/figures/aar.png)
+![CAAR](reports/figures/caar.png)
